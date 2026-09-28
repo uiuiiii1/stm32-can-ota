@@ -19,3 +19,6 @@ Desktop.ini
 *.build_log.htm
 *.hex
 *.dep
+
+# 编辑器配置
+.vscode/
