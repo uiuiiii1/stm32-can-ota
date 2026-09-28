@@ -17,3 +17,5 @@ Desktop.ini
 *.htm
 *.lnp
 *.build_log.htm
+*.hex
+*.dep
