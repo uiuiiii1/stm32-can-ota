@@ -9,3 +9,11 @@
 *.bak
 Thumbs.db
 Desktop.ini
+# Keil 编译产物（各工程输出目录/中间文件）
+*.o
+*.crf
+*.d
+*.axf
+*.htm
+*.lnp
+*.build_log.htm
