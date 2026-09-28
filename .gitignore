@@ -1,0 +1,11 @@
+# Keil MDK 编译产物（别人拿到源码自己编译）
+**/Objects/
+**/Listings/
+**/DebugConfig/
+*.uvguix.*
+*.dep
+# 日志与临时文件
+*.log
+*.bak
+Thumbs.db
+Desktop.ini
